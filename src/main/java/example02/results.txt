@@ -1,0 +1,6 @@
+AMD Ryzen 5000
+
+Benchmark                                    Mode  Samples   Score  Score error  Units
+e.OptimizeStringConcat.concat                avgt        6  12.447        0.594  ns/op
+e.OptimizeStringConcat.concatLike            avgt        6  12.435        0.349  ns/op
+e.OptimizeStringConcat.notQuiteConcatLike    avgt        6  21.243        8.785  ns/op
