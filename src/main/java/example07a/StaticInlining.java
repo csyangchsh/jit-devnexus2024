@@ -1,4 +1,4 @@
-package example06a;
+package example07a;
 
 public class StaticInlining {
   static int globalSink;
